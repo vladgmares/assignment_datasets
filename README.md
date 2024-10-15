@@ -2,7 +2,7 @@
 
 I decided to use the pandas library (I had some experience with it, using that for a course in University) and create a DataFrame for each dataset.
 
-Project uses Python 3.8.19 and the requirements.txt file contains all dependencies (run `pip install -r requirements.txt`). Run main.py to produce the output directory.
+Project uses Python 3.8.19 and the requirements.txt file contains all dependencies (run `pip install -r requirements.txt`). First unzip the datasets.zip file. Run main.py to produce the output directory.
 
 ### Reading data:
 
