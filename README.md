@@ -2,6 +2,8 @@
 
 I decided to use the pandas library (I had some experience with it, using that for a course in University) and create a DataFrame for each dataset.
 
+Project uses Python 3.8.19 and the requirements.txt file contains all dependencies (run `pip install -r requirements.txt`). Run main.py to produce the output directory.
+
 ### Reading data:
 
 * Given there were some parsing errors (related to separators and escaping characters) with facebook and google sets, 
